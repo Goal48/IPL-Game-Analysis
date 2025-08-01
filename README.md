@@ -84,30 +84,6 @@ Practice using pandas and datetime for cleaning
 
 Strengthened understanding of parsing and formatting dates in Python
 
-🚀 How to Run
-Clone this repository:
 
-bash
-Copy
-Edit
-git clone https://github.com/yourusername/fixing_date_column.git
-Navigate to the project folder:
-
-bash
-Copy
-Edit
-cd fixing_date_column
-Launch the notebook:
-
-bash
-Copy
-Edit
-jupyter notebook fixing_date_column.ipynb
-📌 Future Improvements
-Add logging to track invalid entries
-
-Create reusable Python function or class for automated date cleaning
-
-Expand to handle timezone-aware datetime parsing
 
 
